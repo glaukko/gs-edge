@@ -14,7 +14,7 @@ Para fins de simulação no Wokwi, foram utilizados potenciômetros no lugar dos
 - **Visualização de Dados**: Exibe os dados armazenados através do monitor serial.
 
 # Simulação
-<a href="[https://wokwi.com/projects/400042593520835585](https://wokwi.com/projects/400042593520835585)">Link da Simulação</a>
+<a href="https://wokwi.com/projects/400042593520835585">Link da Simulação</a>
 
 ## Requisitos de Hardware
 - **Arduino UNO R3**
